@@ -1,6 +1,6 @@
 # Parallax
 Parallax scrolling landing page
-This is my first time creating an animated page. This site will use HTML, CSS and vanilla JS
+This is my first time creating an animated page. This site will use pure HTML/CSS
 
 Image Source & Attribution
 
